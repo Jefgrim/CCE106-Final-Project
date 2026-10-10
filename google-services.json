@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108120561521",
+    "firebase_url": "https://capsync-813b5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capsync-813b5",
+    "storage_bucket": "capsync-813b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108120561521:android:e3de1e990a6bfd0ef4c8d0",
+        "android_client_info": {
+          "package_name": "edu.umindanao.capsync.capsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_agnDiPAd3J7qRLu-UHcjDt8vPO3snU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
